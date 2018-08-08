@@ -1,0 +1,20 @@
+{
+  "name": "source_code",
+  "version": "1.0.0",
+  "description": "some source code reading and thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janebt/source_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janebt/source_code/issues"
+  },
+  "homepage": "https://github.com/janebt/source_code#readme"
+}
